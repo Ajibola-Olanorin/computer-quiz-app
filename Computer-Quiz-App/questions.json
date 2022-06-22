@@ -1,0 +1,26 @@
+[
+  {
+    "question": "In response to an alert regarding a possible security incident, you are analyzing the logs for a web application.In the process, you see the following string: ./../../../var/secrets What type of attack was most likely attempted against the application?",
+    "choice1": "Directory traversal",
+    "choice2": "Session hijacking",
+    "choice3": "Cross-site scripting",
+    "choice4": "Brute force",
+    "answer": 1
+  },
+  {
+    "question": "_____ attacks can execute the code injected by attackers as part of user inputs",
+    "choice1": "Ping of death",
+    "choice2": "Distribted denial of service",
+    "choice3": "Buffer overflow",
+    "choice4": "Denial of service",
+    "answer": 3
+  },
+  {
+    "question": "You are researching probable threats to your company’s internet-facing web applications. Which organization should you reference as an authoritative source for information on web-based attack vectors?",
+    "choice1": "EC-Council",
+    "choice2": "ISACAISACA",
+    "choice3": "NISTNIST",
+    "choice4": "OWASP",
+    "answer": 4
+  }
+]
